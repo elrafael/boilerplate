@@ -1,0 +1,2 @@
+# boilerplate
+Frontend default template
